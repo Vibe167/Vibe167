@@ -48,11 +48,15 @@ Core Spells: Algorithms | Data Structures | Machine Learning
 
 
 ## 🌟 My Competitive Coding Heatmaps
-[![CodeChef Badge](https://www.codechef.com/users/Vibe77?badge=true)](https://www.codechef.com/users/Vibe77)
-![CodeChef Heatmap](https://link-to-codechef-heatmap-image)
 
+### CodeChef
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?coder_damsel=yourleetcodecoder_damsel)
+[![CodeChef Badge](https://www.codechef.com/users/vibe77badge=true)](https://www.codechef.com/users/vibe77)
+
+### LeetCode Stats
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=coder_damsel)
+
 
 
 
