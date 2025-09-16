@@ -52,7 +52,7 @@ Core Spells: Algorithms | Data Structures | Machine Learning
 ![CodeChef Heatmap](https://link-to-codechef-heatmap-image)
 
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=yourleetcodecoder_damsel)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?coder_damsel=yourleetcodecoder_damsel)
 
 
 
