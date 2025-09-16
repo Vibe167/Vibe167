@@ -47,5 +47,12 @@ Core Spells: Algorithms | Data Structures | Machine Learning
 🪄 “Mischief managed — but the quest for knowledge is never-ending.” 🪄
 
 
+## 🌟 My Competitive Coding Heatmaps
+[![CodeChef Badge](https://www.codechef.com/users/yourusername?badge=true)](https://www.codechef.com/users/yourusername)
+![CodeChef Heatmap](https://link-to-codechef-heatmap-image)
+
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=yourleetcodeusername)
+
 
 
