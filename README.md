@@ -26,7 +26,7 @@ Core Spells: Algorithms | Data Structures | Machine Learning
 
 - 🦄 Successfully brewed 3 full-stack web potions
 - ✨ Vanquished challenging algorithmic beasts
-- 🧙‍♂️ Completed the Order of the Code (Hackathon Winner)
+- 🧙‍♂️ Completed the Order of the Code (Hackathon Finalist)
 - 📜 Published scrolls (Research Papers & Blogs)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
