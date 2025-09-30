@@ -32,8 +32,8 @@ Core Spells: Algorithms | Data Structures | Machine Learning
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vibe167&theme=dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vibe167&theme=dark&layout=compact)
 
 [![Owl Mail](https://img.shields.io/badge/Owl-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-The_Order-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
