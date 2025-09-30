@@ -39,9 +39,6 @@ Core Spells: Algorithms | Data Structures | Machine Learning
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-The_Order-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-b-b4b9162b0/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Enchanted-000000?style=for-the-badge&logo=about.me&logoColor=white)](your-portfolio-url)
 
-<div align="center">
-  <img src="C:\Users\Vaishnavi\Downloads\generated-image (4).png" width="80%" alt="Magical Banner"/>
-</div>
 
 
 🪄 “Mischief managed — but the quest for knowledge is never-ending.” 🪄
