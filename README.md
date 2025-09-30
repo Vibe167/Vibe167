@@ -6,7 +6,7 @@
 
 “In the realm of logic and spells, I conjure seamless solutions and charming codes.”
 
-- 🧙‍♀️ **Apprentice of Computer Wizardry | Third Year at Hogwarts of Code**
+- 🧙‍♀️ **Apprentice of Computer Wizardry | Third Year**
 - 📜 **Master of Spells: C++, Python, JavaScript**
 - 🧪 **Potion Brewer of AI and Machine Learning**
 - 🦉 **Messenger of Open Source and Collaboration**
@@ -44,15 +44,6 @@ Core Spells: Algorithms | Data Structures | Machine Learning
 🪄 “Mischief managed — but the quest for knowledge is never-ending.” 🪄
 
 
-## 🌟 My Competitive Coding Heatmaps
-
-### CodeChef
-
-[![CodeChef Badge](https://www.codechef.com/users/vibe77badge=true)](https://www.codechef.com/users/vibe77)
-
-### LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=coder_damsel)
 
 
 
