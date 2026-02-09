@@ -2,7 +2,7 @@
 **Software Engineering Intern Aspirant | Data Science & Analytics | Full-Stack Developer**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E10600&center=true&vCenter=true&lines=Performance-Driven+Software+Engineering;Data+Science+%7C+Full-Stack+%7C+DSA;Engineering+with+Speed+and+Precision" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E10600&center=true&vCenter=true&lines=Performance-Driven+Software+Engineering;Data+Analysis+%7C+Full-Stack+%7C+DSA;Engineering+with+Speed+and+Precision" />
 </p>
 
 ---
