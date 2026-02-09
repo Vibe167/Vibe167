@@ -17,30 +17,58 @@ Actively preparing for **Software Engineering / Data Science Intern** roles.
 
 ## 🏁 Technical Skills
 
-**Programming Languages**  
-C++ · Java · Python · C · JavaScript
-
-**Data Science & Analytics**  
-Pandas · NumPy · Matplotlib · Seaborn  
-Data Cleaning · Exploratory Data Analysis (EDA)  
-Basic Machine Learning · Statistical Analysis
-
-**Web Development**  
-React.js · Node.js · Express.js · REST APIs
-
-**Databases**  
-MongoDB · MySQL
-
-**Core CS Fundamentals**  
-Data Structures & Algorithms · OOP · DBMS  
-Operating Systems (Basics) · Computer Networks (Basics)
-
-**Tools**  
-Git · GitHub · VS Code
+### 🧠 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🚀 Internship Experience (STAR Format)
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-FF0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge)
+
+---
+
+### 🌐 Web Development (MERN)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-E10600?style=for-the-badge)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### ⚙️ Core CS Fundamentals
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-E10600?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge&logo=linux&logoColor=white)
+![CN](https://img.shields.io/badge/Computer%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+---
+
+## 🚀 Internship Experience
 
 ### **Teaching Assistant — MERN Stack | EdTech Startup**
 
@@ -72,12 +100,7 @@ Assist learners in understanding full-stack concepts, debugging applications, an
 - Applying analytical techniques to extract meaningful patterns from datasets  
 - Research focused on **data-driven decision making**
 
-*(Details to be published upon completion)*
-
----
-
 ## 🏎️ Applied Data Analytics — Formula 1 Research
-
 ### **Performance Analysis in Formula 1 Racing (Ongoing)**
 - Analyzing F1 datasets to study **lap times, driver performance, and race strategies**
 - Applying **EDA and statistical analysis** to identify performance trends
@@ -112,7 +135,7 @@ Assist learners in understanding full-stack concepts, debugging applications, an
 ## 📊 Competitive Programming & Activity
 
 ### 🟥 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Vibe167?theme=dark&font=Montserrat)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ryurtK8sgl?theme=dark&font=Mohave&ext=heatmap)
 
 ### 🟥 Contribution Consistency (Race Pace)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vibe167&theme=redical)
@@ -130,7 +153,7 @@ Assist learners in understanding full-stack concepts, debugging applications, an
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavidbhosale12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://www.linkedin.com/in/vaishnavi-b-b4b9162b0/)
 
 ---
