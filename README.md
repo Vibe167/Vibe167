@@ -68,29 +68,7 @@ Actively preparing for **Software Engineering / Data Science Intern** roles.
 
 ---
 
-## 🚀 Internship Experience
 
-### **Teaching Assistant — MERN Stack | EdTech Startup**
-
-**Situation:**  
-An EdTech platform was delivering intensive MERN stack training programs and required technical mentoring to support students during hands-on development.
-
-**Task:**  
-Assist learners in understanding full-stack concepts, debugging applications, and completing MERN-based projects efficiently.
-
-**Action:**  
-- Guided students through **MongoDB, Express.js, React.js, and Node.js**
-- Assisted in **debugging full-stack applications** and resolving frontend-backend integration issues
-- Explained **JavaScript fundamentals, RESTful APIs, and database operations**
-- Reviewed code, provided technical feedback, and promoted best practices
-- Supported learners during labs, assignments, and project submissions
-
-**Result:**  
-- Helped multiple students successfully complete **production-ready MERN projects**
-- Strengthened personal expertise in **full-stack architecture and system flow**
-- Developed strong **technical communication and mentoring skills**
-
----
 
 ## 🧪 Data Science & Research Work
 
