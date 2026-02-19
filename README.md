@@ -158,6 +158,4 @@ Assist learners in understanding full-stack concepts, debugging applications, an
 
 ---
 
-## 🏁 Philosophy
 
-> High-performance systems—whether software or Formula 1—are built on **data, precision, and continuous optimization**.
