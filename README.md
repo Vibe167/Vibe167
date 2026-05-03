@@ -89,10 +89,10 @@ Actively preparing for **Software Engineering / Data Science Intern** roles.
 ## 🧩 Projects
 
 ### **MarketPulse — Market Regime Detection System**
--Engineered an unsupervised deep learning pipeline using LSTM Autoencoder to detect hidden market regimes from 30 years of S&P 500 and VIX data without human-defined labels
--Designed novel VIX Spread feature (implied minus realized volatility) as a predictive regime signal that spikes before market crashes, unavailable in prior literature
--Applied K-Means and Gaussian Mixture Models on 16-dimensional latent embeddings to identify 3 statistically distinct regimes validated via ANOVA (p<0.001) and UMAP visualization
--Backtested a regime-adaptive portfolio strategy against static 60/40 benchmark over 1993–2024, demonstrating superior Sharpe ratio and lower maximum drawdown
+- Engineered an unsupervised deep learning pipeline using LSTM Autoencoder to detect hidden market regimes from 30 years of S&P 500 and VIX data without human-defined labels
+- Designed novel VIX Spread feature (implied minus realized volatility) as a predictive regime signal that spikes before market crashes, unavailable in prior literature
+- Applied K-Means and Gaussian Mixture Models on 16-dimensional latent embeddings to identify 3 statistically distinct regimes validated via ANOVA (p<0.001) and UMAP visualization
+- Backtested a regime-adaptive portfolio strategy against static 60/40 benchmark over 1993–2024, demonstrating superior Sharpe ratio and lower maximum drawdown
 Deployed full-stack web application with live regime detection, portfolio advisor, and MongoDB Atlas authentication using Streamlit and PyTorch inference pipeline
 
 ### **Skillzy**
